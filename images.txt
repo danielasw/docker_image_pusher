@@ -1,2 +1,3 @@
+# 111
 homeassistant/home-assistant:stable
---platform=x86
+--platform=X86
