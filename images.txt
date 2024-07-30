@@ -1,4 +1,2 @@
-homeassistant/home-assistant:stable
---platform=x86
 dreamacro/clash:latest
 --platform=x86
