@@ -1,2 +1,2 @@
-dreamacro/clash:latest
+funcman/115pc:latest
 --platform=x86
